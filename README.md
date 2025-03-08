@@ -3,9 +3,12 @@
  I'm Davi, I'm a Front End programmer, I'm currently learning and creating projects with: 
 <br>
 <br>
-<img heigt="180cm" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html" widht="0"  >
-<br>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css">
+- 📫 How to reach me: [@Davi](https://www.linkedin.com/in/davi-izidoro/);
+
+
+<br />
+<img  src="https://img.icons8.com/color/2x/html-5.png" alt="logo-html" widht="100">
+<img src="https://img.icons8.com/color/2x/css3.png" alt="logo-css" widht="100">
 <br> 
 <br> 
 And starting learning in JavaScrip and React 📝
@@ -17,6 +20,7 @@ And starting learning in JavaScrip and React 📝
 <br>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davi22D)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi22D)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davi22D&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi22D&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
