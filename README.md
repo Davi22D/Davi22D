@@ -19,7 +19,7 @@ And starting learning in JavaScrip and React 📝
 <a href="https://www.linkedin.com/in/davi-izidoro/">
 <img align="left" alt="LinkedIn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="mailto: contato@leehxd.com.br">
+<a href="mailto: daviizidoro@hotmail.com">
 <img align="left" alt="e-mail" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" />
 </a>
 </p>
