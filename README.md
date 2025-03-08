@@ -22,6 +22,7 @@ And starting learning in JavaScrip and React 📝
 </p>
 <br />
 <br>
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davi22D&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 <br>
